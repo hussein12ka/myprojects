@@ -1,0 +1,10 @@
+export { default as DatesCount } from "../src/assets/DatesReminder/DatesCount";
+export { default as DatesList } from "../src/assets/DatesReminder/DatesList";
+export { default as DatesAction } from "../src/assets/DatesReminder/DatesAction";
+export { default as person } from "../src/assets/data/DatesRe";
+export { default as DatesReminder } from "../src/assets/DatesReminder/DatesReminder";
+export { default as Question } from "../src/assets/Questions/Question";
+export { default as Menufood } from "../src/assets/MenuFood/Menufood";
+export { default as Navmenu } from "../src/assets/MenuFood/Navmenu";
+export { default as Carditem } from "../src/assets/MenuFood/Carditem";
+export { default as Catagore } from "../src/assets/MenuFood/Catagore";

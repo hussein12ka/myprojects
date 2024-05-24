@@ -1,0 +1,37 @@
+:root {
+  font-family: "Noto Kufi Arabic", sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #fafafa;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.font {
+  font-family: "Noto Kufi Arabic", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+;
+.Row {}
+.rectangel {
+  border: 1px solid rgb(29, 29, 31);
+  background-color: hsl(202, 57%, 42%);
+  border-radius: 2%;
+  padding: 5px;
+  margin: 0 10px;
+  color: rgb(0, 0, 0);
+}
+.carditem{
+  display: flex;
+  flex-flow: row ;
+  width: 100%;
+  
+}
+.cataw{
+  display: flex;
+  gap: 33px;
+}
